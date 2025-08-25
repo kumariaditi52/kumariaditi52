@@ -1,3 +1,9 @@
+## Hi there 👋
+
+## 🏅🏆 GitHub Achievements 🏆🏅
+
+
+  
 # 🌟 Hello World! I'm Aditi 🌟
 
 ## 💻 Software Engineer | Full-Stack Developer | Tech Enthusiast
@@ -16,7 +22,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-javascript
+```javascript
 const aditi = {
     pronouns: "she" | "her",
     location: "India 🇮🇳",
@@ -49,7 +55,7 @@ const aditi = {
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
     hobbies: ["Photography 📸", "Music 🎵", "Travel ✈️", "Coffee ☕"]
 };
-
+```
 
 <br clear="right"/>
 
@@ -66,19 +72,19 @@ const aditi = {
 <td width="50%">
 
 ### 🏨 Hotel Management App
-- *Tech Stack:* React Native, Node.js, MongoDB
-- *Features:* Room booking, guest management, billing
-- *Status:* 🚧 In Development
-- *Goal:* Complete full-featured hotel management solution
+- **Tech Stack:** React Native, Node.js, MongoDB
+- **Features:** Room booking, guest management, billing
+- **Status:** 🚧 In Development
+- **Goal:** Complete full-featured hotel management solution
 
 </td>
 <td width="50%">
 
 ### 🌐 Personal Portfolio Website
-- *Tech Stack:* Next.js, TypeScript, Tailwind CSS
-- *Features:* Project showcase, blog, contact form
-- *Status:* ✅ Live
-- *Goal:* Showcase my development journey
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS
+- **Features:** Project showcase, blog, contact form
+- **Status:** ✅ Live
+- **Goal:** Showcase my development journey
 
 </td>
 </tr>
@@ -288,14 +294,14 @@ const aditi = {
 <td width="50%">
 
 ### 🏨 Hotel Management System
-*A comprehensive hotel management solution*
+**A comprehensive hotel management solution**
 
 - 🛏️ Room booking & management
 - 👥 Guest registration & check-in/out
 - 💰 Billing & payment processing
 - 📊 Analytics & reporting
 
-*Tech:* React Native, Node.js, MongoDB
+**Tech:** React Native, Node.js, MongoDB
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/kumariaditi52/Hotel-Management-App)
 
@@ -303,14 +309,14 @@ const aditi = {
 <td width="50%">
 
 ### 🌐 Portfolio Website
-*Personal portfolio showcasing my work*
+**Personal portfolio showcasing my work**
 
 - 📱 Responsive design
 - 🎨 Modern UI/UX
 - 📝 Blog integration
 - 📧 Contact form
 
-*Tech:* Next.js, TypeScript, Tailwind CSS
+**Tech:** Next.js, TypeScript, Tailwind CSS
 
 [![Live](https://img.shields.io/badge/Live-View%20Site-green?style=flat-square&logo=vercel)](https://yourportfolio.com)
 
@@ -328,7 +334,7 @@ const aditi = {
 
 <div align="center">
 
-
+```
 ╔══════════════════════════════════════╗
 ║  🎯 Goals for 2024                   ║
 ║  ✅ Master TypeScript                ║
@@ -339,7 +345,7 @@ const aditi = {
 ║  🔄 Learn AI/ML Fundamentals         ║
 ║  🔄 Get AWS Certification            ║
 ╚══════════════════════════════════════╝
-
+```
 
 </div>
 
@@ -347,7 +353,7 @@ const aditi = {
 <tr>
 <td width="50%">
 
-*🎨 When I'm not coding:*
+**🎨 When I'm not coding:**
 - 📸 Photography enthusiast
 - 🎵 Music lover (Spotify addict)
 - 📚 Reading tech blogs & books
@@ -358,7 +364,7 @@ const aditi = {
 </td>
 <td width="50%">
 
-*💭 Random Facts:*
+**💭 Random Facts:**
 - 🌙 Night owl programmer
 - 🐛 I name my bugs before fixing them
 - 🎮 Gamer in free time
@@ -377,3 +383,52 @@ const aditi = {
 ## 📈 Coding Activity
 
 </div>
+
+
+
+---
+
+## 🏨 What I'm Working On
+
+| Project | Stack | Status | Features |  
+|---|---|---|---|
+| **Hotel Management App** | React Native, Node.js, MongoDB | 🚧 In Development | Booking, guest mgmt, billing |
+| **Portfolio Website** | Next.js, TypeScript, Tailwind CSS | ✅ Live | Blog, project showcase, contact |
+
+---
+
+## 🎨 Design Achievements
+
+<div align="center">
+
+<!-- Dummy Achievement Images -->
+<img src="https://img.icons8.com/color/96/000000/trophy.png" width="80" alt="Trophy" />
+<img src="https://img.icons8.com/color/96/000000/medal2.png" width="80" alt="Medal" />
+<img src="https://img.icons8.com/color/96/000000/idea.png" width="80" alt="Innovation" />
+
+<br/><br/>
+
+<!-- Design Achievements Badges -->
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-🏆%20Excellence-blueviolet?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Creative%20Design-🌟%20Innovation-success?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Design%20Thinking-💡%20Problem%20Solver-orange?style=for-the-badge&logo=sketch&logoColor=white" />
+
+</div>
+
+
+
+
+
+
+---
+### 🌐 Portfolio Website  
+- Modern responsive UI  
+- Blog integration, contact form  
+- *[Live Demo](https://yourportfolio.com)*
+
+
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumariaditi52&theme=tokyo-night)
+</div>
+
