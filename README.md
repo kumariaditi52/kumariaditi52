@@ -61,40 +61,7 @@ const aditi = {
 
 ---
 
-<div align="center">
-  
-## 🎯 What I'm Currently Working On
 
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🏨 Hotel Management App
-- **Tech Stack:** React Native, Node.js, MongoDB
-- **Features:** Room booking, guest management, billing
-- **Status:** 🚧 In Development
-- **Goal:** Complete full-featured hotel management solution
-
-</td>
-<td width="50%">
-
-### 🌐 Personal Portfolio Website
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS
-- **Features:** Project showcase, blog, contact form
-- **Status:** ✅ Live
-- **Goal:** Showcase my development journey
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-  ## 🛠️ Tech Stack & Tools
-</div>
 
 ### 💻 Programming Languages
 <p align="center">
