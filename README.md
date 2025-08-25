@@ -250,46 +250,6 @@ const aditi = {
 
 ---
 
-<div align="center">
-  
-## 🌟 Featured Projects
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🏨 Hotel Management System
-**A comprehensive hotel management solution**
-
-- 🛏️ Room booking & management
-- 👥 Guest registration & check-in/out
-- 💰 Billing & payment processing
-- 📊 Analytics & reporting
-
-**Tech:** React Native, Node.js, MongoDB
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/kumariaditi52/Hotel-Management-App)
-
-</td>
-<td width="50%">
-
-### 🌐 Portfolio Website
-**Personal portfolio showcasing my work**
-
-- 📱 Responsive design
-- 🎨 Modern UI/UX
-- 📝 Blog integration
-- 📧 Contact form
-
-**Tech:** Next.js, TypeScript, Tailwind CSS
-
-[![Live](https://img.shields.io/badge/Live-View%20Site-green?style=flat-square&logo=vercel)](https://yourportfolio.com)
-
-</td>
-</tr>
-</table>
 
 ---
 
