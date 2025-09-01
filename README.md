@@ -319,8 +319,8 @@ const aditi = {
 
 | Project | Stack | Status | Features |  
 |---|---|---|---|
-| **Hotel Management App** | React Native, Node.js, MongoDB | 🚧 In Development | Booking, guest mgmt, billing |
-| **Portfolio Website** | Next.js, TypeScript, Tailwind CSS | ✅ Live | Blog, project showcase, contact |
+| **---------** | React Native, Node.js, MongoDB | 🚧 In Development | Booking, guest mgmt, billing |
+| **---------** | Next.js, TypeScript, Tailwind CSS | ✅ Live | Blog, project showcase, contact |
 
 ---
 
